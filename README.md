@@ -36,8 +36,6 @@ This is one of the most important steps in machine learning! You must understand
 
 The data has one file "CarPricesData.csv". This file contains 1435 car prices data.
 
-You can download the data required for this case study here
-
 Data description
 The business meaning of each column in the data is as below
 
