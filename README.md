@@ -12,8 +12,8 @@ You can use this flow as a template to solve any supervised ML Regression proble
 
 The flow of the case study is as below:
 
-*Reading the data in python
-*Defining the problem statement
+* Reading the data in python
+* Defining the problem statement
 *Identifying the Target variable
 *Looking at the distribution of Target variable
 *Basic Data exploration
